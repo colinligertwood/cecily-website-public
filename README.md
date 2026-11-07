@@ -1,6 +1,6 @@
 # Cecily website
 
-The website for the Cecily apps, Cecily Budget, Cecily Cards and Cecily Tasks, served at [cecily.app](https://cecily.app). The apps' code is on GitHub: [Budget](https://github.com/colinligertwood/cecily-budget-public), [Cards](https://github.com/colinligertwood/cecily-cards-public), [Tasks](https://github.com/colinligertwood/cecily-tasks-public) and [CecilyKit](https://github.com/colinligertwood/cecily-kit-public.git-public), the package they share.
+The website for the Cecily apps, Cecily Budget, Cecily Cards and Cecily Tasks, served at [cecily.app](https://cecily.app). The apps' code is on GitHub: [Budget](https://github.com/colinligertwood/cecily-budget-public), [Cards](https://github.com/colinligertwood/cecily-cards-public), [Tasks](https://github.com/colinligertwood/cecily-tasks-public) and [CecilyKit](https://github.com/colinligertwood/cecily-kit-public), the package they share.
 
 | Page | File |
 | --- | --- |
