@@ -15,7 +15,7 @@ The website for the Cecily apps, Cecily Budget, Cecily Cards and Cecily Tasks, s
 
 Plain HTML and CSS, with no build step and no scripts beyond CSS animation. Open `index.html` in a browser to see it.
 
-- Each page is one file: its styles in a `<style>` block and the wordmark as inline SVG. The app icons are images in `icons/`, drawn as the system draws them.
+- Each page is one file: its styles in a `<style>` block and the wordmark as inline SVG. The app icons are images in `icons/`: Cards and Tasks as the system draws them, and Budget's chart on its own, on no background.
 - Headings use Silom, then `fonts/ChicagoFLF.woff`, then Geneva; body text uses Geneva, then Verdana.
 - The front page's monitor flips between a Budget, a Cards and a Tasks screen every five seconds, in CSS. Visitors who ask their system for reduced motion see the Budget screen, still.
 - The layout is drawn for 1440 pixels wide. Below 1380 pixels, rows side by side stack, and the margins narrow at 900 and 640 pixels, down to a phone.
